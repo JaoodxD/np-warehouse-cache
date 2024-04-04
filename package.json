@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
-    "undici": "^5.28.3"
+    "undici": "^5.28.4"
   }
 }
